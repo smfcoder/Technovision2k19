@@ -1,0 +1,2 @@
+Client Id: 1098046764468-95j2unud27b1g47cnt0o7vlgfkllf43n.apps.googleusercontent.com
+client secret: _TGF7UWNVH9pRiti0y_ASGHI
